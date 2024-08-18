@@ -19,7 +19,7 @@ Este é um simples aplicativo de lista de tarefas desenvolvido em React. O aplic
 
 1. Clone o repositório 
 
-   git clone https://github.com/cunhoso/teste-dev-junior.git
+   git clone https://github.com/cunhoso/teste-dev-jr.git
 
 2. Instale as dependências 
 
